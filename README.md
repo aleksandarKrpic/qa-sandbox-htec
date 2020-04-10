@@ -8,7 +8,7 @@
 #### Prerequisites (for local run): ####
 * JDK 1.8
 * Maven 3.6.0
-* Google Chrome 80
+* Google Chrome 81.0.4044.92
 
 #### Run the project on a local machine:
 * Open command line and navigate to the root folder of the project, where is pom.xml
