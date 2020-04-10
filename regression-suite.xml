@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QA Sandbox Test Suite">
+	<test name="QA Sandbox Service and UI tests">
+		<packages>
+			<package name="test"/>
+		</packages>
+	</test>
+</suite>
